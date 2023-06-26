@@ -3,7 +3,7 @@
 
 
 ## Proyecto: Montacargas.
-![Tinkercad](.Imagenes/Circuito_Control.jpg)
+![Tinkercad](./Imagenes/Circuito_Control.jpg)
 
 
 ## Descripción:
@@ -167,7 +167,7 @@ void ALARMA()
 
 ~~~
 ## Diagrama esquemático
-![Tinkercad](.Imagenes/Vista_Esquematica.jpg)
+![Tinkercad](./Imagenes/Vista_Esquematica.jpg)
 
 ## Link al proyecto
 - [Proyecto](https://www.tinkercad.com/things/17SVgbWKUgx-parcial-21/editel?sharecode=VESztc-H09SuKjdHfI0CQDcRS2rH9W1tuFLGj3ILpk4)
