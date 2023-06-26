@@ -2,7 +2,7 @@
 - Gonzalo Rojas
 
 
-## Proyecto: Montacargas.
+## Proyecto: Sistema de Alarma.
 ![Tinkercad](./Imagenes/Circuito_Control.jpg)
 
 
